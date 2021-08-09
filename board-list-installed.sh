@@ -1,0 +1,2 @@
+
+arduino-cli core list

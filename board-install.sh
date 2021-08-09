@@ -1,0 +1,1 @@
+arduino-cli core install $1
